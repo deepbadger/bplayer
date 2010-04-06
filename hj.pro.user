@@ -1,0 +1,427 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-BaseEnvironmentBase</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString">hj.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString">hj</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetWorkingDirectory</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserWorkingDirectory</variable>
+  <value type="QString"></value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString">Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>RunConfiguration1-CommunicationType</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>RunConfiguration1-CustomKeyPath</variable>
+  <value type="QString">C:\Users\mir\Documents\2010-03-02.key</value>
+ </data>
+ <data>
+  <variable>RunConfiguration1-CustomSignaturePath</variable>
+  <value type="QString">C:\Users\mir\Documents\2010-03-02.cer</value>
+ </data>
+ <data>
+  <variable>RunConfiguration1-ProFile</variable>
+  <value type="QString">hj.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration1-RunConfiguration.name</variable>
+  <value type="QString">hj на устройстве с Symbian</value>
+ </data>
+ <data>
+  <variable>RunConfiguration1-SerialPortName</variable>
+  <value type="QString">COM4</value>
+ </data>
+ <data>
+  <variable>RunConfiguration1-SigningMode</variable>
+  <value type="int">1</value>
+ </data>
+ <data>
+  <variable>RunConfiguration1-type</variable>
+  <value type="QString">Qt4ProjectManager.DeviceRunConfiguration</value>
+ </data>
+ <data>
+  <variable>RunConfiguration2-ProFile</variable>
+  <value type="QString">hj.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration2-RunConfiguration.name</variable>
+  <value type="QString">hj в эмуляторе Symbian</value>
+ </data>
+ <data>
+  <variable>RunConfiguration2-type</variable>
+  <value type="QString">Qt4ProjectManager.EmulatorRunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int">1</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString">Nokia_N97_SDK_v1.0_2 (Qt 4.6.2) Релиз</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Nokia_N97_SDK_v1.0_2 (Qt 4.6.2) Отладка</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Nokia_N97_SDK_v1.0_2 (Qt 4.6.2) Отладка</value>
+   <value key="QtVersionId" type="int">5</value>
+   <value key="ToolChain" type="int">6</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Nokia_N97_SDK_v1.0_2 (Qt 4.6.2) Релиз</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Nokia_N97_SDK_v1.0_2 (Qt 4.6.2) Релиз</value>
+   <value key="QtVersionId" type="int">5</value>
+   <value key="ToolChain" type="int">6</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Release</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <value key="QtVersionId" type="int">5</value>
+   <value key="ToolChain" type="int">6</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">1</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Nokia_N97_SDK_v1.0_2 (Qt 4.6.2) Отладка-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Nokia_N97_SDK_v1.0_2 (Qt 4.6.2) Отладка</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString">APPDATA=C:\Users\mir\AppData\Roaming</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=HPK</value>
+    <value type="QString">COMSPEC=C:\Windows\system32\cmd.exe</value>
+    <value type="QString">EPOCDEVICE=Nokia_N97_SDK_v1.0_2:com.nokia.s60</value>
+    <value type="QString">EPOCROOT=\S60\devices\Nokia_N97_SDK_v1.0_2\</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Users\mir</value>
+    <value type="QString">LOCALAPPDATA=C:\Users\mir\AppData\Local</value>
+    <value type="QString">LOGONSERVER=\\HPK</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=1</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=C:\Program Files\CSL Arm Toolchain\bin;C:\S60\devices\Nokia_N97_SDK_v1.0_2\epoc32\gcc\bin;C:\S60\devices\Nokia_N97_SDK_v1.0_2\epoc32\tools;C:\Qt\4.6.2-symbian\bin;C:\Program Files\PC Connectivity Solution\;C:\Perl\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\Symbian\tools;C:\Program Files\CSL Arm Toolchain\bin</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=x86 Family 6 Model 22 Stepping 1, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=6</value>
+    <value type="QString">PROCESSOR_REVISION=1601</value>
+    <value type="QString">PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files</value>
+    <value type="QString">PSMODULEPATH=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\</value>
+    <value type="QString">PUBLIC=C:\Users\Public</value>
+    <value type="QString">QTDIR=C:/Qt/4.6.2-symbian</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\Windows</value>
+    <value type="QString">TEMP=C:\Users\mir\AppData\Local\Temp</value>
+    <value type="QString">TMP=C:\Users\mir\AppData\Local\Temp</value>
+    <value type="QString">USERDOMAIN=hpk</value>
+    <value type="QString">USERNAME=mir</value>
+    <value type="QString">USERPROFILE=C:\Users\mir</value>
+    <value type="QString">WINDIR=C:\Windows</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">C:/Users/mir/Documents/hj/hj.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">symbian-abld</value>
+    <value type="QString">-r</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">c:/qt/4.6.2-symbian/bin/qmake.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">C:/Users/mir/Documents/hj</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Nokia_N97_SDK_v1.0_2 (Qt 4.6.2) Отладка-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Nokia_N97_SDK_v1.0_2 (Qt 4.6.2) Отладка</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString">APPDATA=C:\Users\mir\AppData\Roaming</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=HPK</value>
+    <value type="QString">COMSPEC=C:\Windows\system32\cmd.exe</value>
+    <value type="QString">EPOCDEVICE=Nokia_N97_SDK_v1.0_2:com.nokia.s60</value>
+    <value type="QString">EPOCROOT=\S60\devices\Nokia_N97_SDK_v1.0_2\</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Users\mir</value>
+    <value type="QString">LOCALAPPDATA=C:\Users\mir\AppData\Local</value>
+    <value type="QString">LOGONSERVER=\\HPK</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=1</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=C:\Program Files\CSL Arm Toolchain\bin;C:\S60\devices\Nokia_N97_SDK_v1.0_2\epoc32\gcc\bin;C:\S60\devices\Nokia_N97_SDK_v1.0_2\epoc32\tools;C:\Qt\4.6.2-symbian\bin;C:\Program Files\PC Connectivity Solution\;C:\Perl\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\Symbian\tools;C:\Program Files\CSL Arm Toolchain\bin</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=x86 Family 6 Model 22 Stepping 1, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=6</value>
+    <value type="QString">PROCESSOR_REVISION=1601</value>
+    <value type="QString">PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files</value>
+    <value type="QString">PSMODULEPATH=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\</value>
+    <value type="QString">PUBLIC=C:\Users\Public</value>
+    <value type="QString">QTDIR=C:/Qt/4.6.2-symbian</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\Windows</value>
+    <value type="QString">TEMP=C:\Users\mir\AppData\Local\Temp</value>
+    <value type="QString">TMP=C:\Users\mir\AppData\Local\Temp</value>
+    <value type="QString">USERDOMAIN=hpk</value>
+    <value type="QString">USERNAME=mir</value>
+    <value type="QString">USERPROFILE=C:\Users\mir</value>
+    <value type="QString">WINDIR=C:\Windows</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">debug-gcce</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">C:/S60/devices/Nokia_N97_SDK_v1.0_2/epoc32/tools/make.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">C:/Users/mir/Documents/hj</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Nokia_N97_SDK_v1.0_2 (Qt 4.6.2) Отладка-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Nokia_N97_SDK_v1.0_2 (Qt 4.6.2) Отладка</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Nokia_N97_SDK_v1.0_2 (Qt 4.6.2) Релиз-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Nokia_N97_SDK_v1.0_2 (Qt 4.6.2) Релиз</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString">APPDATA=C:\Users\mir\AppData\Roaming</value>
+    <value type="QString">CLASSPATH=.;C:\Program Files\Java\jre6\lib\ext\QTJava.zip</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=HPK</value>
+    <value type="QString">COMSPEC=C:\Windows\system32\cmd.exe</value>
+    <value type="QString">EPOCDEVICE=Nokia_N97_SDK_v1.0_2:com.nokia.s60</value>
+    <value type="QString">EPOCROOT=\S60\devices\Nokia_N97_SDK_v1.0_2\</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Users\mir</value>
+    <value type="QString">LOCALAPPDATA=C:\Users\mir\AppData\Local</value>
+    <value type="QString">LOGONSERVER=\\HPK</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=1</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=C:\Program Files\CSL Arm Toolchain\bin;C:\S60\devices\Nokia_N97_SDK_v1.0_2\epoc32\gcc\bin;C:\S60\devices\Nokia_N97_SDK_v1.0_2\epoc32\tools;C:\Qt\4.6.2-symbian\bin;C:\Program Files\PC Connectivity Solution\;C:\Perl\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\Symbian\tools;C:\Program Files\CSL Arm Toolchain\bin;C:\Program Files\QuickTime\QTSystem\</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=x86 Family 6 Model 22 Stepping 1, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=6</value>
+    <value type="QString">PROCESSOR_REVISION=1601</value>
+    <value type="QString">PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files</value>
+    <value type="QString">PSMODULEPATH=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\</value>
+    <value type="QString">PUBLIC=C:\Users\Public</value>
+    <value type="QString">QTDIR=C:/Qt/4.6.2-symbian</value>
+    <value type="QString">QTJAVA=C:\Program Files\Java\jre6\lib\ext\QTJava.zip</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\Windows</value>
+    <value type="QString">TEMP=C:\Users\mir\AppData\Local\Temp</value>
+    <value type="QString">TMP=C:\Users\mir\AppData\Local\Temp</value>
+    <value type="QString">USERDOMAIN=hpk</value>
+    <value type="QString">USERNAME=mir</value>
+    <value type="QString">USERPROFILE=C:\Users\mir</value>
+    <value type="QString">WINDIR=C:\Windows</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">C:/Users/mir/Documents/hj/hj.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">symbian-abld</value>
+    <value type="QString">-r</value>
+    <value type="QString">CONFIG+=release</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">c:/qt/4.6.2-symbian/bin/qmake.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">C:/Users/mir/Documents/hj</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Nokia_N97_SDK_v1.0_2 (Qt 4.6.2) Релиз-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Nokia_N97_SDK_v1.0_2 (Qt 4.6.2) Релиз</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString">APPDATA=C:\Users\mir\AppData\Roaming</value>
+    <value type="QString">CLASSPATH=.;C:\Program Files\Java\jre6\lib\ext\QTJava.zip</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=HPK</value>
+    <value type="QString">COMSPEC=C:\Windows\system32\cmd.exe</value>
+    <value type="QString">EPOCDEVICE=Nokia_N97_SDK_v1.0_2:com.nokia.s60</value>
+    <value type="QString">EPOCROOT=\S60\devices\Nokia_N97_SDK_v1.0_2\</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Users\mir</value>
+    <value type="QString">LOCALAPPDATA=C:\Users\mir\AppData\Local</value>
+    <value type="QString">LOGONSERVER=\\HPK</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=1</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=C:\Program Files\CSL Arm Toolchain\bin;C:\S60\devices\Nokia_N97_SDK_v1.0_2\epoc32\gcc\bin;C:\S60\devices\Nokia_N97_SDK_v1.0_2\epoc32\tools;C:\Qt\4.6.2-symbian\bin;C:\Program Files\PC Connectivity Solution\;C:\Perl\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Common Files\Symbian\tools;C:\Program Files\CSL Arm Toolchain\bin;C:\Program Files\QuickTime\QTSystem\</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=x86 Family 6 Model 22 Stepping 1, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=6</value>
+    <value type="QString">PROCESSOR_REVISION=1601</value>
+    <value type="QString">PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files</value>
+    <value type="QString">PSMODULEPATH=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\</value>
+    <value type="QString">PUBLIC=C:\Users\Public</value>
+    <value type="QString">QTDIR=C:/Qt/4.6.2-symbian</value>
+    <value type="QString">QTJAVA=C:\Program Files\Java\jre6\lib\ext\QTJava.zip</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\Windows</value>
+    <value type="QString">TEMP=C:\Users\mir\AppData\Local\Temp</value>
+    <value type="QString">TMP=C:\Users\mir\AppData\Local\Temp</value>
+    <value type="QString">USERDOMAIN=hpk</value>
+    <value type="QString">USERNAME=mir</value>
+    <value type="QString">USERPROFILE=C:\Users\mir</value>
+    <value type="QString">WINDIR=C:\Windows</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">release-gcce</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">C:/S60/devices/Nokia_N97_SDK_v1.0_2/epoc32/tools/make.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">C:/Users/mir/Documents/hj</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Nokia_N97_SDK_v1.0_2 (Qt 4.6.2) Релиз-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Nokia_N97_SDK_v1.0_2 (Qt 4.6.2) Релиз</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Release</value>
+   <value type="QString">Nokia_N97_SDK_v1.0_2 (Qt 4.6.2) Отладка</value>
+   <value type="QString">Nokia_N97_SDK_v1.0_2 (Qt 4.6.2) Релиз</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="mkspec" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.qmake</value>
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="clean" type="bool">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray">System</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+</qtcreator>
